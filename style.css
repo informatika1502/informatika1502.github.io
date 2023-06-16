@@ -1,0 +1,32 @@
+a {
+    background-color:#DEB887;
+    box-shadow: 0 2px 0 darkred;
+    color: darkred;
+    padding: 0.3em 0.3em;
+    position: relative;
+    text-decoration: none;
+
+  }
+
+  a:hover {
+    background-color: #ce0606;
+  }
+
+  a:active {
+    box-shadow: none;
+    top: 5px;
+  }
+h4 {
+    color: darkred;
+    text-decoration: none;
+    box-shadow: 0 2px 5 darkred;
+}
+h2 {
+    color: darkred;
+}
+hr {
+    color: darkred;
+}
+h1 {
+  text-align: right;
+}
